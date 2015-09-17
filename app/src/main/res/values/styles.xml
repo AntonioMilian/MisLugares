@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="estiloTexto">
+        <item name="android:typeface">serif</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="estiloTexto.boton">
+        <item name="android:padding">15dp</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+
+</resources>
